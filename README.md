@@ -1,3 +1,3 @@
 tartantor
 =========
-git.add:index.html
+git add:index.html
